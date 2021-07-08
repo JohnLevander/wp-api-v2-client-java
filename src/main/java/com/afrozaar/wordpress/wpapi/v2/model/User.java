@@ -10,7 +10,7 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 import com.fasterxml.jackson.annotation.JsonPropertyOrder;
 import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
 
-import javax.annotation.Generated;
+import javax.annotation.processing.Generated;
 
 import java.util.ArrayList;
 import java.util.HashMap;

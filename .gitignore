@@ -8,3 +8,4 @@
 /atlassian-ide-plugin.xml
 /**/*.yaml
 /.classpath
+.DS_Store
